@@ -3,6 +3,6 @@ seaborn
 plotly.express
 pandas
 numpy
-plotly.subplots
+plotly
 datetime
 IPython.display
