@@ -1,6 +1,6 @@
 # Covid Global Cases and Deaths on June 22nd 2021
 
-<a href="" target="_blank">View on web</a> or <a href="https://public.tableau.com/views/CovidGlobalJune22/CovidJune222021Dashboard?:language=en-US&:embed_code_version=3&:loadOrderID=0&publish=yes?:embed%3Dy&:display_count=n&:origin=viz_share_link" target="_blank">View on Tableau</a>.
+<a href="https://covid-visualization.emilebangma.com/" target="_blank">View on web</a> or <a href="https://public.tableau.com/views/CovidGlobalJune22/CovidJune222021Dashboard?:language=en-US&:embed_code_version=3&:loadOrderID=0&publish=yes?:embed%3Dy&:display_count=n&:origin=viz_share_link" target="_blank">View on Tableau</a>.
 
 ## Datasets used
 
